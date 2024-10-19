@@ -10,6 +10,7 @@ View 1: Total Sales
         Disable Tooltip for this view.
         Use the background color of your choice.
         Name the sheet as “Total Sales”.
+<br>
 View 2: Total Profit
 <br>
         Requirements are the same as for the view “Total Sales”.
