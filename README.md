@@ -1,4 +1,4 @@
-# Superstore-Sales-Performance-Project
+# Superstore-Sales-Performance-Tableau-Project
 Objective: Building an interactive sales performance Dashboard using Tableau showcasing key business metrics across regions, product category and customer segments.
 <br>
 Business Requirement:
