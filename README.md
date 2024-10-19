@@ -32,6 +32,7 @@ View 8: Line Chart
         Hide the axis titles only.
         Tooltip should display only Month-Year, along with the sales value in $ in Thousands (K).
         Use Order Date as a Date Range filter.
+<br>
 Created a comprehensive single-Dashboard to visualize sales data, implemented advanced features like filters, calculated fields to improve the dashboard’s usability and provide actionable insights.
 
 
