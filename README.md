@@ -4,36 +4,44 @@ Objective: Building an interactive sales performance Dashboard using Tableau sho
 Business Requirement:
 <br>
 View 1: Total Sales
+<br>
         The sheet should only display the Total Sales in thousands, along with the header “Total Sales”.
         The Total Sales displayed should have the color code “#76b7b2”. 
         Disable Tooltip for this view.
         Use the background color of your choice.
         Name the sheet as “Total Sales”.
 View 2: Total Profit
+<br>
         Requirements are the same as for the view “Total Sales”.
 <br>
 View 3: Total Volume
+<br>
         Requirements are the same as for the view “Total Sales”, except it’s not a currency value.
 <br>
 View 4: Sales Per Customer
+<br>
         Requirements are the same as for the view “Total Sales“.
 <br>
 View 5: Pie Chart
+<br>
         Pie Chart should display the percent of Total Sales by Region.
         Use the Summer Color Palette.
         Tooltip should be formatted showing Region Name, Percent of Total Sales, and the Total Sales value formatted in currency and displayed in thousands (K).
 <br>
 View 6: Bar Chart
+<br>
         Horizontal Bar Chart should display the top N states by Sales.
         Using a Parameter, the user should be able to change the value of N.
         Use the color of your choice for the bars along with the labels displayed in $.
 <br>
 View 7: Bubble Chart
+<br>
         Bubble chart should display Sales by sub-category.
         Bubbles should be colored by category.
         Tooltip should display only sub-category along with the sales value in $ in thousands (K).
 <br>
 View 8: Line Chart
+<br>
         A continuous line chart should display the Sales trend by Month-Year.
         X-axis should display month and year in the format MMM YY. 
         Hide the axis titles only.
